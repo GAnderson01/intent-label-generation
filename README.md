@@ -16,12 +16,12 @@ Then, simply execute the remaining cells to either produce labels or evaluate al
 
 If you use this source code in your work, please cite the paper:
 
-@inproceedings{anderson2024,
-  author={Grant Anderson and Emma Hart and Dimitra Gkatzia and Ian Beaver},
-  title={{Automated Human-Readable Label Generation in Open Intent Discovery}},
-  year=2024,
-  booktitle={Proc. INTERSPEECH 2024},
-  pages={tbc},
-  doi={tbc},
-  issn={tbc}
-}
+    @inproceedings{anderson2024,
+        author={Grant Anderson and Emma Hart and Dimitra Gkatzia and Ian Beaver},
+        title={{Automated Human-Readable Label Generation in Open Intent Discovery}},
+        year=2024,
+        booktitle={Proc. INTERSPEECH 2024},
+        pages={tbc},
+        doi={tbc},
+        issn={tbc}
+    }
