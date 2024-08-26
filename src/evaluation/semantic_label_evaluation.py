@@ -6,7 +6,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
 
-from evaluation.bart_score import BARTScorer
+from BARTScore.bart_score import BARTScorer
 from intent_label_generation.intent_label_generation import clean_generated_labels, clean_intent_labels
 from intent_label_generation.readable_intents import readable_intents
 from utils.io import generate_config_str
